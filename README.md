@@ -1,5 +1,5 @@
-# Hindi and Bengali Handwriting Character Recognition
-Hindi and Bengali Handwriting Character Recognition is implemented using Convolution Neural Network (CNN) and (MLP). Handwritten character recognition is an old problem that has been extensively studied for many different languages around the world. However, there have not been much significant work done in the field of recognition of Hindi and Bengali.
+# Hindi, Bengali and Malayalam Handwriting Character Recognition
+Hindi, Bengali and Malayalam Handwriting Character Recognition is implemented using Convolution Neural Network (CNN) and (MLP). Handwritten character recognition is an old problem that has been extensively studied for many different languages around the world. However, there have not been much significant work done in the field of recognition of Hindi and Bengali.
 
 Here we have implemented in two ways:
 - Using Web Camera (Python 3)
@@ -36,6 +36,8 @@ __Bengali/__ - Contains All files Associated with Bengali Recognition
 __English/__ - Contains All files Associated with English Recognition
 
 __Hindi/__ - Contains All files Associated with Hindi Recognition
+
+__Malayalam/__ - Contains All files Associated with Malayalam Recognition
 
 __data/__ - Each Language Folder (Bengali, Hindi and English) contains its own dataset which is split into testing and training
 
@@ -74,6 +76,16 @@ For English - Run the notebooks in the following order:
 3. English_RNN.ipynb (Optional but if choose to run this then skip 4)
 4. English_Recognition.ipynb
 5. English_Recognition_CNN,MLP,RNN
+```
+
+For Malayalam - Run the notebooks in the following order:
+```bash
+1. Unpack Image.rar
+2. Dat_Clean_Sort.ipynb
+3. Malayalam_CNN.ipynb
+4. Malayalam_MLP.ipynb
+5. Malayalam_LSTM.ipynb
+5. Malayalam_Recognition.ipynb
 ```
 
 For execution of Web App: 
