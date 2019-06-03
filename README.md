@@ -6,10 +6,10 @@ Here we have implemented in two ways:
 - Using HTML (Web Technology)
 
 ## Datasets
-1. Extended MNIST dataset (letters) - [English] ()
-2. DHCD (Devanagari Character Dataset) - [Hindi] ()
-3. CMATERdb (Bengali Character Dataset) - [Bengali] ()
-4. Malayalam Character Dataset - [Malayalam] ()
+1. Extended MNIST dataset (letters) - [English]()
+2. DHCD (Devanagari Character Dataset) - [Hindi]()
+3. CMATERdb (Bengali Character Dataset) - [Bengali]()
+4. Malayalam Character Dataset - [Malayalam]()
 
 ## Dependencies
 - Tensorflow 1.3 (Required)
