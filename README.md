@@ -6,9 +6,10 @@ Here we have implemented in two ways:
 - Using HTML (Web Technology)
 
 ## Datasets
-1. Extended MNIST dataset (letters) - English
-2. DHCD (Devanagari Character Dataset) - Hindi
-3. CMATERdb (Bengali Character Dataset) - Bengali
+1. Extended MNIST dataset (letters) - [English] ()
+2. DHCD (Devanagari Character Dataset) - [Hindi] ()
+3. CMATERdb (Bengali Character Dataset) - [Bengali] ()
+4. Malayalam Character Dataset - [Malayalam] ()
 
 ## Dependencies
 - Tensorflow 1.3 (Required)
@@ -50,6 +51,8 @@ __English_Recognition.py__ - contains the code required for recognizing English 
 __Hindi_Recognition.py__ - contains the code required for recognizing Hindi character through web cam
 
 __Bengali_Recognition.py__ - contains the code required for recognizing Bengali character through web cam
+
+__Malayalam_Recognition.py__ - contains the code required for recognizing Malayalam character through web cam
 
 ## Execution
 For Bengali - Run the notebooks in the following order:
