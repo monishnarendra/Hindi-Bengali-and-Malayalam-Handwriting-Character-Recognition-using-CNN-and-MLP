@@ -8,7 +8,7 @@ Here we have implemented in two ways:
 ## Datasets
 1. Extended MNIST dataset (letters) - [English]()
 2. DHCD (Devanagari Character Dataset) - [Hindi]()
-3. CMATERdb (Bengali Character Dataset) - [Bengali]()
+3. CMATERdb (Bengali Character Dataset) - [Bengali](https://code.google.com/archive/p/cmaterdb/)
 4. Malayalam Character Dataset - [Malayalam]()
 
 ## Dependencies
